@@ -5,10 +5,10 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-(eda))
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results/Findings](#results/findings)
+- [Results](#results)
 - [Conclusion](#conclusion)
 
 
@@ -25,7 +25,7 @@ Debts Data: The primary data used for this analysis is the "US Debt Tracker Proj
 
 - Excel - Data cleaning and creating reports
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 
 In the initial data preparartion phase, I performed the following tasks:
 
@@ -33,7 +33,7 @@ In the initial data preparartion phase, I performed the following tasks:
 2. Clean the data by removing duplicates and handled missing values
 3. Standardized Date and Debt Formats
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 
 EDA involves exploring the debts data to answer key questions such as :
 
@@ -65,7 +65,7 @@ Used scatter plots to identify correlations between variables.
 Implemented slicers in Pivot Tables for better interactivity.
 ```
 
-### Results/Findings
+### Results
 
 The analysis results are summarized as follows:
 
