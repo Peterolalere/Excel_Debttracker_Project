@@ -67,6 +67,12 @@ Implemented slicers in Pivot Tables for better interactivity.
 
 ### Results
 
+![Screenshot 2025-02-06 044417](https://github.com/user-attachments/assets/f4e959ca-b9fa-4f75-b5b9-8f044ec129de) 
+
+![Screenshot 2025-02-06 044444](https://github.com/user-attachments/assets/2cb12173-24f8-4fc1-9d1f-bbe6e0d71fa3)
+
+![Screenshot 2025-02-06 044514](https://github.com/user-attachments/assets/c1370488-ad56-4d91-929c-9bf1116951b9)
+
 The analysis results are summarized as follows:
 
 1. For the total public debt outstanding,in years 2016-2019, the average increase was 5%.
