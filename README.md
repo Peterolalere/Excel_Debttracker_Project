@@ -73,7 +73,7 @@ Implemented slicers in Pivot Tables for better interactivity.
 
 ![Screenshot 2025-02-06 044514](https://github.com/user-attachments/assets/c1370488-ad56-4d91-929c-9bf1116951b9)
 
-The analysis results are summarized as follows:
+Key Insights and Findings:
 
 1. For the total public debt outstanding,in years 2016-2019, the average increase was 5%.
 2. In 2020, we see a large spike that was mostly caused by pandemic responses in the US.
